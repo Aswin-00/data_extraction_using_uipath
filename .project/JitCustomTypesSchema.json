@@ -1,0 +1,67 @@
+{
+  "ExportedBy": "StudioWeb",
+  "BundleHash": "RLmDRkIzJ2Lie7j3vYwxKFRxn3MEYguKfMbG4A5Io",
+  "Version": "1.0.0.0",
+  "JitAssemblyCompilerCommands": [
+    {
+      "ProviderName": "TypedDataTable",
+      "TypedDataTableDto": {
+        "Id": 1,
+        "IdRef": "NExtractDataGeneric`1_1",
+        "Hash": "NExtractDataGeneric`1_1|DataTable|9qdFJ2qrsilidX4aoilGPvgmXCZK93vynATAx0s",
+        "DataType": "System.Data.DataTable, System.Data.Common",
+        "Columns": [
+          {
+            "ColumnName": "product_name",
+            "DataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "ColumnName": "price",
+            "DataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "ColumnName": "image",
+            "DataType": "System.String, System.Private.CoreLib"
+          }
+        ],
+        "RowExtensionProperties": [],
+        "NestedRowExtensionProperties": []
+      },
+      "EntityAssemblyKey": {
+        "Name": "Studio.Generated.TypedDataTable1",
+        "Hash": "NExtractDataGeneric`1_1|DataTable|9qdFJ2qrsilidX4aoilGPvgmXCZK93vynATAx0s",
+        "AssemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "ProviderName": "TypedDataTable",
+      "TypedDataTableDto": {
+        "Id": 2,
+        "IdRef": "NExtractDataGeneric`1_1",
+        "Hash": "NExtractDataGeneric`1_1|DataTable|9qdFJ2qrsilidX4aoilGPvgmXCZK93vynATAx0s",
+        "DataType": "System.Data.DataTable, System.Data.Common",
+        "Columns": [
+          {
+            "ColumnName": "product_name",
+            "DataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "ColumnName": "price",
+            "DataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "ColumnName": "image",
+            "DataType": "System.String, System.Private.CoreLib"
+          }
+        ],
+        "RowExtensionProperties": [],
+        "NestedRowExtensionProperties": []
+      },
+      "EntityAssemblyKey": {
+        "Name": "Studio.Generated.TypedDataTable2",
+        "Hash": "NExtractDataGeneric`1_1|DataTable|9qdFJ2qrsilidX4aoilGPvgmXCZK93vynATAx0s",
+        "AssemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    }
+  ]
+}
